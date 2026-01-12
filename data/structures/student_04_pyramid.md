@@ -1,10 +1,10 @@
 # Pyramid - Student 04
 
 ## What I See in My Data
-    1
-   2-2
-  3-3-3
- 4-4-4-4
+        1
+       2-2
+      3-3-3
+     4-4-4-4
 
 ## What I Think This Means
 A Pyramid
